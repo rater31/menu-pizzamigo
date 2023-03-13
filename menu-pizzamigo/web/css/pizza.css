@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Climate+Crisis&display=swap');
+/* segunda opcion */
+@import url('https://fonts.googleapis.com/css2?family=Righteous&display=swap');
+/* tercera opcion */
+@import url('https://fonts.googleapis.com/css2?family=Rowdies&display=swap');
+.bg-imag{
+    background-image: url(../../pizza\ fondo.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    /* background-attachment: fixed; */
+    background-position: center;
+    
+}
+.texto{
+    /* font-family: 'Climate Crisis', cursive; */
+    /* font-family: 'Righteous', cursive; */
+    font-family: 'Rowdies', cursive;
+    -webkit-text-stroke: 0.6px black;
+}
+.titulo{
+    /* font-family: 'Climate Crisis', cursive; */
+    font-family: 'Rowdies', cursive;
+    -webkit-text-stroke: 0.6px black;
+
+    font-size: 2rem;
+}
+.precio-metro{
+    width: 19vh;
+}
