@@ -28,3 +28,9 @@
 .precio-metro{
     width: 19vh;
 }
+.marco{
+    border-color: white;
+    border: 2px solid;
+    border-radius: 30px;
+
+}

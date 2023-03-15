@@ -1,8 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Rowdies&display=swap');
+
 .infusiones{
     background-image: url(../../infusiones.jpg);
     background-position: center;
     height: 100px;
 }
+.cafeteria{
+    background-image: url(../../cafeteria-1.jpg);
+    background-position: center;
+    height: 100px;
+}
 .ms-6{
     margin-left: 8vh;
+}
+.texto{
+    /* font-family: 'Climate Crisis', cursive; */
+    /* font-family: 'Righteous', cursive; */
+    font-family: 'Rowdies', cursive;
+    font-size: 1.2rem;
+    -webkit-text-stroke: 0.6px black;
+}
+.marco{
+    border-color: white;
+    border: 2px solid;
+    border-radius: 30px;
+
 }
