@@ -1,4 +1,14 @@
 .fondo-postre{
-    background-color: aquamarine;
+    background-image: url(../../postres.png);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    /* background-attachment:fixed; */
     height: 100px;
+}
+.titulo2{
+    color: black;
+    
+    -webkit-text-stroke: 0.6px white;
+
 }
