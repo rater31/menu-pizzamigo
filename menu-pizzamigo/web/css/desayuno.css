@@ -11,8 +11,10 @@
     height: 100px;
 }
 .tablas{
-    background-image: url(../../tabla-de-desayuno.jpg);
+    background-image: url(../../akemy-mory-tUhCuctc_LU-unsplash.jpg);
     background-position: center;
+    background-size: 55vh;
+    background-repeat: no-repeat;
     height: 100px;
 }
 .ms-6{
