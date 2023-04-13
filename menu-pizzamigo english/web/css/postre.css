@@ -1,0 +1,14 @@
+.fondo-postre{
+    background-image: url(../../aneta-voborilova-Rj1IWO8IozE-unsplash.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    /* background-attachment:fixed; */
+    height: 100px;
+}
+.titulo2{
+    color: black;
+    
+    -webkit-text-stroke: 0.6px white;
+
+}

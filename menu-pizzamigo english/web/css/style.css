@@ -1,0 +1,25 @@
+.bg-bermellon{
+    background-color:rgba(230, 46, 0,0.6);
+    
+}
+body{
+    background-image: url(../../fondo2.jpg);
+}
+.redo{
+    width: 20vh;
+    height: 20vh;
+    border-radius: 100% ;
+}
+.footer{
+/* text-decoration: none; */
+color: #d9d9d9;
+font-size: 1rem;
+}
+.estilo{
+    border: 0px 0px 30px 30px !important; 
+}
+.precio{
+    
+    width: 19vh;
+    height: 5vh;
+ }

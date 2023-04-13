@@ -1,0 +1,15 @@
+.fondo{
+    background-image: url(../../davey-gravy-DmO662qvWO8-unsplash.jpg);
+    background-position:center;
+    height: 100px;
+    background-repeat: no-repeat;
+    background-size: 55vh;
+}
+.titulo2{
+    -webkit-text-stroke: 1.3px black;
+}
+.precio{
+    
+   width: 19vh;
+   height: 5vh;
+}

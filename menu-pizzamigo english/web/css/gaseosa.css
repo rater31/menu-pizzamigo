@@ -1,0 +1,18 @@
+.gaseosa{
+    background-image: url(../../artem-beliaikin-rNQ3TFuLkQU-unsplash.jpg);
+    background-position: center;
+    background-size: cover;
+    height: 100px;
+    border-radius: 30px;
+}
+.gas{
+    -webkit-text-stroke: 1.6px black;
+
+}
+.cerveza{
+    background-image: url(../../jon-parry-C8eSYwQkwHw-unsplash.jpg);
+    background-position: center;
+    background-size: cover;
+    height: 80px;
+    border-radius: 30px;
+}
