@@ -29,3 +29,15 @@ font-size: 1rem;
  .tit{
     text-decoration: none;
  }
+ .fondoPrecio{
+    background-image: url(../../precio-sin-num.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: center;
+    /* width: 19vh; */
+    height: 6vh;
+ }
+ .precioNumero{
+    font-weight: bolder;
+    font-size: 26px;
+ }
