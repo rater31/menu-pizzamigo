@@ -2,6 +2,14 @@
     background-color:rgba(230, 46, 0,0.6);
     
 }
+.pp{
+    background-image: url(../../precio-sin-num.png);
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+    padding: 2px;
+    font-size: 1.5rem;
+}
 body{
     background-image: url(../../fondo2.jpg);
 }
