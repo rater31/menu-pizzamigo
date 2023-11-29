@@ -34,7 +34,7 @@ const papas = document.getElementById("papas");
 const papasbravas = document.getElementById("papasbravas");
 
 
-//platos
+//platos--------------------------------------------
 milanesa.innerHTML="$3500"
 
 bifedelomo.innerHTML="$4300"
@@ -63,7 +63,7 @@ suprema.innerHTML="$3300"
 
 milacaballo.innerHTML="$3800"
 
-//tabla de milas
+//tabla de milas ------------------------
 
 tablanapo.innerHTML="$7500"
 
@@ -74,3 +74,31 @@ tablacheddar.innerHTML="$8500"
 tablafugazzeta.innerHTML="$7500"
 
 milachoclo.innerHTML="$7800"
+
+// guarnicion---------------------------
+
+guarnicion.innerHTML="$1800"
+
+//empanadas----------------------------
+
+empanadau.innerHTML="$400"
+
+empanadadoc.innerHTML="$4000"
+
+//sandwich------------------------------
+
+lomito.innerHTML="$3000"
+
+mila.innerHTML="$3000"
+
+hambueguesa.innerHTML="$2800"
+
+chacarero1p.innerHTML="$3000"
+
+chacarero2p.innerHTML="$6000"
+
+//papas-------------------------------
+
+papas.innerHTML="$1800"
+
+papasbravas.innerHTML="$2200"
