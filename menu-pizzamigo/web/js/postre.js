@@ -1,3 +1,4 @@
+
 const porcionesdetarta =document.getElementById("tarta");
 const flan = document.getElementById("flan");
 const budindepan = document.getElementById("budindepan");
