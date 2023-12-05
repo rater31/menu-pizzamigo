@@ -17,10 +17,7 @@ const corona330 = document.getElementById("corona330")
 const sol = document.getElementById("sol")
 const lata = document.getElementById("lata")
 const laton = document.getElementById("laton")
-//tragos
-const fernet = document.getElementById("fernet")
-const campari = document.getElementById("campari")
-const gancia = document.getElementById("gancia")
+
 
 
 
@@ -65,10 +62,3 @@ lata.innerHTML="$1200"
 
 laton.innerHTML="$1600"
 
-//tragos
-
-fernet.innerHTML="$2000"
-
-campari.innerHTML="$2000"
-
-gancia.innerHTML="$2000"
