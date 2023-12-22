@@ -87,11 +87,11 @@ empanadadoc.innerHTML="$4000"
 
 //sandwich------------------------------
 
-lomito.innerHTML="$3000"
+lomito.innerHTML="$4000"
 
-mila.innerHTML="$3000"
+mila.innerHTML="$3800"
 
-hambueguesa.innerHTML="$2800"
+hambueguesa.innerHTML="$3500"
 
 chacarero1p.innerHTML="$4500"
 

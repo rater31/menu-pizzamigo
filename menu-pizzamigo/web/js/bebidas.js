@@ -56,7 +56,7 @@ corona710.innerHTML="$3300"
 
 corona330.innerHTML="$2000"
 
-sol.innerHTML="$1200"
+sol.innerHTML="$2000"
 
 lata.innerHTML="$1700"
 
