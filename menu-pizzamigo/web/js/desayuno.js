@@ -6,6 +6,8 @@ const proteico = document.getElementById("proteico");
 const jamonyqueso = document.getElementById("jamonyqueso");
 const americano = document.getElementById("americano");
 const comboAmericano = document.getElementById("comboAmericano");
+
+
 //infusiones
 const cafechico = document.getElementById("cafechico");
 const cafejarrito = document.getElementById("cafejarrito");

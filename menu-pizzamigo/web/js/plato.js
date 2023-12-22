@@ -35,49 +35,49 @@ const papasbravas = document.getElementById("papasbravas");
 
 
 //platos--------------------------------------------
-milanesa.innerHTML="$3500"
+milanesa.innerHTML="$4900"
 
-bifedelomo.innerHTML="$4300"
+bifedelomo.innerHTML="$6000"
 
-napolitana.innerHTML="$3800"
+napolitana.innerHTML="$5300"
 
-costillitasbarbacoa.innerHTML="$4000"
+costillitasbarbacoa.innerHTML="$5600"
 
-bifedepollo.innerHTML="$3300"
+bifedepollo.innerHTML="$4600"
 
-lomoalafrontera.innerHTML="$4300"
+lomoalafrontera.innerHTML="$6000"
 
-lomoalchampi.innerHTML="$4300"
+lomoalchampi.innerHTML="$6000"
 
-pollochampi.innerHTML="$4000"
+pollochampi.innerHTML="$5600"
 
-costeleta.innerHTML="$3800"
+costeleta.innerHTML="$5300"
 
-costeletariojana.innerHTML="$4100"
+costeletariojana.innerHTML="$5800"
 
-milacerdo.innerHTML="$3300"
+milacerdo.innerHTML="$4600"
 
-milaberenjena.innerHTML="$3000"
+milaberenjena.innerHTML="$4200"
 
-suprema.innerHTML="$3300"
+suprema.innerHTML="$4600"
 
-milacaballo.innerHTML="$3800"
+milacaballo.innerHTML="$5500"
 
 //tabla de milas ------------------------
 
-tablanapo.innerHTML="$7500"
+tablanapo.innerHTML="$10500"
 
-tablacaballo.innerHTML="$7800"
+tablacaballo.innerHTML="$10500"
 
-tablacheddar.innerHTML="$8500"
+tablacheddar.innerHTML="$10500"
 
-tablafugazzeta.innerHTML="$7500"
+tablafugazzeta.innerHTML="$10500"
 
-milachoclo.innerHTML="$7800"
+milachoclo.innerHTML="$10500"
 
 // guarnicion---------------------------
 
-guarnicion.innerHTML="$1800"
+guarnicion.innerHTML="$2000"
 
 //empanadas----------------------------
 
@@ -93,12 +93,12 @@ mila.innerHTML="$3000"
 
 hambueguesa.innerHTML="$2800"
 
-chacarero1p.innerHTML="$3000"
+chacarero1p.innerHTML="$4500"
 
-chacarero2p.innerHTML="$6000"
+chacarero2p.innerHTML="$8000"
 
 //papas-------------------------------
 
-papas.innerHTML="$1800"
+papas.innerHTML="$2500"
 
-papasbravas.innerHTML="$2200"
+papasbravas.innerHTML="$3000"
