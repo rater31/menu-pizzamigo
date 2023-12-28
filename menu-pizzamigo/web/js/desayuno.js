@@ -59,7 +59,7 @@ cafedoble.innerHTML="$1300"
 
 capuchino.innerHTML="$1600"
 
-te.innerHTML="$700"
+te.innerHTML="$900"
 
 jugochico.innerHTML="$1300"
 
