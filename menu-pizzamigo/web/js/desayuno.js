@@ -33,58 +33,58 @@ const mixjyq = document.getElementById("mixjyq");
 
 // desayunos
 
-tradicional.innerHTML="$1800"
+tradicional.innerHTML="$2600"
 
-continental.innerHTML="$2000"
+continental.innerHTML="$2800"
 
-licuados.innerHTML="$2100"
+licuados.innerHTML="$3000"
 
-light.innerHTML="$1700"
+light.innerHTML="$2400"
 
-proteico.innerHTML="$2700"
+proteico.innerHTML="$3800"
 
-jamonyqueso.innerHTML="$2200"
+jamonyqueso.innerHTML="$3100"
 
-americano.innerHTML="$2900"
+americano.innerHTML="$4100"
 
-comboAmericano.innerHTML="$5000"
+comboAmericano.innerHTML="$7000"
 
 //infusiones
 
-cafechico.innerHTML="$600"
+cafechico.innerHTML="$900"
 
-cafejarrito.innerHTML="$750"
+cafejarrito.innerHTML="$1000"
 
-cafedoble.innerHTML="$900"
+cafedoble.innerHTML="$1300"
 
-capuchino.innerHTML="$1100"
+capuchino.innerHTML="$1600"
 
-te.innerHTML="$500"
+te.innerHTML="$700"
 
-jugochico.innerHTML="$900"
+jugochico.innerHTML="$1300"
 
-jugogrande.innerHTML="$1500"
+jugogrande.innerHTML="$2100"
 
-licuados2.innerHTML="$1500"
+licuados2.innerHTML="$2100"
 
-submarino.innerHTML="$1200"
+submarino.innerHTML="$1700"
 
 //cafeteria
 
-medialuna.innerHTML="$500"
+medialuna.innerHTML="$700"
 
-criollo.innerHTML="$300"
+criollo.innerHTML="$500"
 
-madialunajyq.innerHTML="$800"
+madialunajyq.innerHTML="$1200"
 
-tostadascampo.innerHTML="$300"
+tostadascampo.innerHTML="$500"
 
-manteca.innerHTML="$500"
+manteca.innerHTML="$700"
 
-huevo.innerHTML="$1000"
+huevo.innerHTML="$1400"
 
-palta.innerHTML="$1000"
+palta.innerHTML="$1400"
 
-jyq.innerHTML="$1000"
+jyq.innerHTML="$1400"
 
-mixjyq.innerHTML="$1500"
+mixjyq.innerHTML="$2100"
