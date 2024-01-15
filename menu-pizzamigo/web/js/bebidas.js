@@ -3,8 +3,10 @@ const coca15l =document.getElementById("coca15l")
 const fanta1l = document.getElementById("fanta1l")
 const sprite1l = document.getElementById("sprite1l")
 const coca300 = document.getElementById("coca300")
-const fanta300 = document.getElementById("fanta300")
+const fanta = document.getElementById("fanta300")
 const sprite300 = document.getElementById("sprite300")
+const fanta15l = document.getElementById("fanta15l")
+const sprite15l = document.getElementById("sprite15l")
 const aguasav = document.getElementById("aguasav")
 // cerveza
 const saltarubia = document.getElementById("saltarubia")
@@ -31,12 +33,18 @@ coca15l.innerHTML="$3500"
 fanta1l.innerHTML="$2500"
 
 sprite1l.innerHTML="$2500"
-// las de 300 ahora es de 1 litro y medio 
-// coca300.innerHTML="$3500"
 
-fanta300.innerHTML="$3500"
 
-sprite300.innerHTML="$3500"
+fanta15l.innerHTML="$3500"
+
+sprite15l.innerHTML="$3500"
+
+coca300.innerHTML="$1500"
+
+fanta300.innerHTML="$1500"
+
+sprite300.innerHTML="$1500"
+
 
 aguasav.innerHTML="$1400"
 

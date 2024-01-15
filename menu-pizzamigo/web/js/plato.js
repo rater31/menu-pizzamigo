@@ -18,6 +18,8 @@ const tablacaballo = document.getElementById("tablacaballo");
 const tablacheddar = document.getElementById("tablacheddar");
 const tablafugazzeta = document.getElementById("tablafugazzeta");
 const milachoclo = document.getElementById("milachoclo");
+//menu infantil
+const menuchicos = document.getElementById("menuchicos")
 //guarnicion
 const guarnicion = document.getElementById("guarnicion");
 //empanadas
@@ -74,6 +76,10 @@ tablacheddar.innerHTML="$11500"
 tablafugazzeta.innerHTML="$11500"
 
 milachoclo.innerHTML="$11500"
+
+//menu chicos-----------------------------
+
+menuchicos.innerHTML="$2500"
 
 // guarnicion---------------------------
 

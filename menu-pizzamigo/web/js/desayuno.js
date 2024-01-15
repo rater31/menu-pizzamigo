@@ -1,6 +1,7 @@
 const tradicional = document.getElementById("tradicional");
 const continental = document.getElementById("continental");
 const licuados = document.getElementById("licuados");
+const plicuados = document.getElementById("plicuados");
 const light = document.getElementById("light");
 const proteico = document.getElementById("proteico");
 const jamonyqueso = document.getElementById("jamonyqueso");
@@ -28,6 +29,12 @@ const huevo = document.getElementById("huevo");
 const palta = document.getElementById("palta");
 const jyq = document.getElementById("jyq");
 const mixjyq = document.getElementById("mixjyq");
+const plimonada = document.getElementById("plimonada");
+const pnaranja = document.getElementById("pnaranja");
+const naranja = document.getElementById("naranja");
+const limonada = document.getElementById("limonada");
+
+
 
 
 
@@ -38,6 +45,12 @@ tradicional.innerHTML="$2600"
 continental.innerHTML="$2800"
 
 licuados.innerHTML="$3000"
+
+plicuados.innerHTML="$5500"
+
+plimonada.innerHTML="$4500"
+
+pnaranja.innerHTML="$6000"
 
 light.innerHTML="$2400"
 
@@ -61,11 +74,15 @@ capuchino.innerHTML="$1600"
 
 te.innerHTML="$900"
 
-jugochico.innerHTML="$1300"
+jugochico.innerHTML="$1500"
 
 jugogrande.innerHTML="$2100"
 
-licuados2.innerHTML="$2100"
+licuados2.innerHTML="$3000"
+
+naranja.innerHTML="$5000"
+
+limonada.innerHTML="$3000"
 
 submarino.innerHTML="$1700"
 
