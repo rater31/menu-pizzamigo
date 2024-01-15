@@ -65,15 +65,15 @@ milacaballo.innerHTML="$5500"
 
 //tabla de milas ------------------------
 
-tablanapo.innerHTML="$10500"
+tablanapo.innerHTML="$11500"
 
-tablacaballo.innerHTML="$10500"
+tablacaballo.innerHTML="$11500"
 
-tablacheddar.innerHTML="$10500"
+tablacheddar.innerHTML="$11500"
 
-tablafugazzeta.innerHTML="$10500"
+tablafugazzeta.innerHTML="$11500"
 
-milachoclo.innerHTML="$10500"
+milachoclo.innerHTML="$11500"
 
 // guarnicion---------------------------
 
