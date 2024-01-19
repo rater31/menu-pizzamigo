@@ -46,7 +46,7 @@ fanta300.innerHTML="$1500"
 sprite300.innerHTML="$1500"
 
 
-aguasav.innerHTML="$1400"
+aguasav.innerHTML="$2000"
 
 //cerveza
 
