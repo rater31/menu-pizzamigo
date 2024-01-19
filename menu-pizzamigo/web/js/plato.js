@@ -87,7 +87,7 @@ guarnicion.innerHTML="$2000"
 
 //empanadas----------------------------
 
-empanadau.innerHTML="$400"
+empanadau.innerHTML="$450"
 
 empanadadoc.innerHTML="$4500"
 
