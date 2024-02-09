@@ -40,68 +40,68 @@ const limonada = document.getElementById("limonada");
 
 // desayunos
 
-tradicional.innerHTML="$2600"
+tradicional.innerHTML="$2860"
 
-continental.innerHTML="$2800"
+continental.innerHTML="$3080"
 
-licuados.innerHTML="$3000"
+licuados.innerHTML="$3300"
 
-plicuados.innerHTML="$5500"
+plicuados.innerHTML="$6050"
 
-plimonada.innerHTML="$4500"
+plimonada.innerHTML="$4950"
 
-pnaranja.innerHTML="$6000"
+pnaranja.innerHTML="$6600"
 
-light.innerHTML="$2400"
+light.innerHTML="$2640"
 
-proteico.innerHTML="$3800"
+proteico.innerHTML="$4180"
 
-jamonyqueso.innerHTML="$3100"
+jamonyqueso.innerHTML="$3410"
 
-americano.innerHTML="$4100"
+americano.innerHTML="$4510"
 
-comboAmericano.innerHTML="$7000"
+comboAmericano.innerHTML="$7700"
 
 //infusiones
 
-cafechico.innerHTML="$900"
+cafechico.innerHTML="$990"
 
-cafejarrito.innerHTML="$1000"
+cafejarrito.innerHTML="$1100"
 
-cafedoble.innerHTML="$1300"
+cafedoble.innerHTML="$1430"
 
-capuchino.innerHTML="$1600"
+capuchino.innerHTML="$1760"
 
-te.innerHTML="$900"
+te.innerHTML="$990"
 
-jugochico.innerHTML="$1500"
+jugochico.innerHTML="$1650"
 
-jugogrande.innerHTML="$2100"
+jugogrande.innerHTML="$2310"
 
-licuados2.innerHTML="$3000"
+licuados2.innerHTML="$3300"
 
-naranja.innerHTML="$5000"
+naranja.innerHTML="$5500"
 
-limonada.innerHTML="$3000"
+limonada.innerHTML="$3300"
 
-submarino.innerHTML="$1700"
+submarino.innerHTML="$1870"
 
 //cafeteria
 
-medialuna.innerHTML="$700"
+medialuna.innerHTML="$770"
 
-criollo.innerHTML="$500"
+criollo.innerHTML="$550"
 
-madialunajyq.innerHTML="$1200"
+madialunajyq.innerHTML="$1320"
 
-tostadascampo.innerHTML="$500"
+tostadascampo.innerHTML="$550"
 
-manteca.innerHTML="$700"
+manteca.innerHTML="$770"
 
-huevo.innerHTML="$1400"
+huevo.innerHTML="$1540"
 
-palta.innerHTML="$1400"
+palta.innerHTML="$1540"
 
-jyq.innerHTML="$1400"
+jyq.innerHTML="$1540"
 
-mixjyq.innerHTML="$2100"
+mixjyq.innerHTML="$2310"
