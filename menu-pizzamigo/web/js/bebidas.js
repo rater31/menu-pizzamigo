@@ -50,23 +50,23 @@ aguasav.innerHTML="$2200"
 
 //cerveza
 
-saltarubia.innerHTML="$4730"
+saltarubia.innerHTML="$4750"
 
-saltanegra.innerHTML="$4730"
+saltanegra.innerHTML="$4750"
 
-heineken.innerHTML="$5280"
+heineken.innerHTML="$5300"
 
 imperial.innerHTML="$4950"
 
-miller.innerHTML="$5280"
+miller.innerHTML="$5300"
 
-corona710.innerHTML="$3630"
+corona710.innerHTML="$3650"
 
 corona330.innerHTML="$2200"
 
 sol.innerHTML="$2200"
 
-lata.innerHTML="$1870"
+lata.innerHTML="$2800"
 
-laton.innerHTML="$2200"
+laton.innerHTML="$3650"
 

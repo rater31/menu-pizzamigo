@@ -42,7 +42,7 @@ const limonada = document.getElementById("limonada");
 
 tradicional.innerHTML="$2860"
 
-continental.innerHTML="$3080"
+continental.innerHTML="$3100"
 
 licuados.innerHTML="$3300"
 
@@ -52,31 +52,31 @@ plimonada.innerHTML="$4950"
 
 pnaranja.innerHTML="$6600"
 
-light.innerHTML="$2640"
+light.innerHTML="$2650"
 
-proteico.innerHTML="$4180"
+proteico.innerHTML="$4200"
 
-jamonyqueso.innerHTML="$3410"
+jamonyqueso.innerHTML="$3450"
 
-americano.innerHTML="$4510"
+americano.innerHTML="$4550"
 
 comboAmericano.innerHTML="$7700"
 
 //infusiones
 
-cafechico.innerHTML="$990"
+cafechico.innerHTML="$1000"
 
 cafejarrito.innerHTML="$1100"
 
-cafedoble.innerHTML="$1430"
+cafedoble.innerHTML="$1450"
 
-capuchino.innerHTML="$1760"
+capuchino.innerHTML="$1800"
 
-te.innerHTML="$990"
+te.innerHTML="$1000"
 
 jugochico.innerHTML="$1650"
 
-jugogrande.innerHTML="$2310"
+jugogrande.innerHTML="$2350"
 
 licuados2.innerHTML="$3300"
 
@@ -84,24 +84,24 @@ naranja.innerHTML="$5500"
 
 limonada.innerHTML="$3300"
 
-submarino.innerHTML="$1870"
+submarino.innerHTML="$1900"
 
 //cafeteria
 
-medialuna.innerHTML="$770"
+medialuna.innerHTML="$800"
 
 criollo.innerHTML="$550"
 
-madialunajyq.innerHTML="$1320"
+madialunajyq.innerHTML="$1350"
 
 tostadascampo.innerHTML="$550"
 
-manteca.innerHTML="$770"
+manteca.innerHTML="$800"
 
-huevo.innerHTML="$1540"
+huevo.innerHTML="$1550"
 
-palta.innerHTML="$1540"
+palta.innerHTML="$1550"
 
-jyq.innerHTML="$1540"
+jyq.innerHTML="$1550"
 
-mixjyq.innerHTML="$2310"
+mixjyq.innerHTML="$2350"
