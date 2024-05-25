@@ -67,15 +67,15 @@ milacaballo.innerHTML="$6600"
 
 //tabla de milas ------------------------
 
-tablanapo.innerHTML="$12650"
+tablanapo.innerHTML="$15000"
 
-tablacaballo.innerHTML="$12650"
+tablacaballo.innerHTML="$15000"
 
-tablacheddar.innerHTML="$12650"
+tablacheddar.innerHTML="$15000"
 
-tablafugazzeta.innerHTML="$12650"
+tablafugazzeta.innerHTML="$15000"
 
-milachoclo.innerHTML="$12650"
+milachoclo.innerHTML="$15000"
 
 //menu chicos-----------------------------
 
@@ -93,18 +93,18 @@ empanadadoc.innerHTML="$5000"
 
 //sandwich------------------------------
 
-lomito.innerHTML="$5500"
+lomito.innerHTML="$6000"
 
-mila.innerHTML="$4950"
+mila.innerHTML="$5500"
 
-hambueguesa.innerHTML="$4400"
+hambueguesa.innerHTML="$5000"
 
-chacarero1p.innerHTML="$4950"
+chacarero1p.innerHTML="$6000"
 
-chacarero2p.innerHTML="$8800"
+chacarero2p.innerHTML="$10000"
 
 //papas-------------------------------
 
-papas.innerHTML="$2750"
+papas.innerHTML="$3500"
 
-papasbravas.innerHTML="$3300"
+papasbravas.innerHTML="$4500"

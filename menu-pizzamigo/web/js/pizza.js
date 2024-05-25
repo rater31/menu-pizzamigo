@@ -4,6 +4,6 @@ const pizzeta = document.getElementById("pizzeta");
 
 
 // pizzas
-pizzaMedio.innerHTML="$8800"
-pizzaMetro.innerHTML="$17600"
+pizzaMedio.innerHTML="$9500"
+pizzaMetro.innerHTML="$19000"
 pizzeta.innerHTML="$5000"
