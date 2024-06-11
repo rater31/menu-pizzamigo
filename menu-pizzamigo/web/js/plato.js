@@ -37,74 +37,74 @@ const papasbravas = document.getElementById("papasbravas");
 
 
 //platos--------------------------------------------
-milanesa.innerHTML="$6050"
+milanesa.innerHTML="$7000"
 
-bifedelomo.innerHTML="$8250"
+bifedelomo.innerHTML="$9000"
 
-napolitana.innerHTML="$6600"
+napolitana.innerHTML="$8000"
 
-costillitasbarbacoa.innerHTML="$7700"
+costillitasbarbacoa.innerHTML="$9000"
 
-bifedepollo.innerHTML="$5500"
+bifedepollo.innerHTML="$6500"
 
-lomoalafrontera.innerHTML="$8250"
+lomoalafrontera.innerHTML="$9000"
 
-lomoalchampi.innerHTML="$8250"
+lomoalchampi.innerHTML="$10000"
 
-pollochampi.innerHTML="$7150"
+pollochampi.innerHTML="$8000"
 
-costeleta.innerHTML="$6600"
+costeleta.innerHTML="$8000"
 
-costeletariojana.innerHTML="$6600"
+costeletariojana.innerHTML="$7000"
 
-milacerdo.innerHTML="$6050"
+milacerdo.innerHTML="$6500"
 
 milaberenjena.innerHTML="$4950"
 
 suprema.innerHTML="$6050"
 
-milacaballo.innerHTML="$6600"
+milacaballo.innerHTML="$8000"
 
 //tabla de milas ------------------------
 
-tablanapo.innerHTML="$15000"
+tablanapo.innerHTML="$17000"
 
-tablacaballo.innerHTML="$15000"
+tablacaballo.innerHTML="$17000"
 
-tablacheddar.innerHTML="$15000"
+tablacheddar.innerHTML="$17000"
 
-tablafugazzeta.innerHTML="$15000"
+tablafugazzeta.innerHTML="$17000"
 
-milachoclo.innerHTML="$15000"
+milachoclo.innerHTML="$17000"
 
 //menu chicos-----------------------------
 
-menuchicos.innerHTML="$2750"
+menuchicos.innerHTML="$5000"
 
 // guarnicion---------------------------
 
-guarnicion.innerHTML="$2200"
+guarnicion.innerHTML="$4000"
 
 //empanadas----------------------------
 
-empanadau.innerHTML="$500"
+empanadau.innerHTML="$700"
 
-empanadadoc.innerHTML="$5000"
+empanadadoc.innerHTML="$7000"
 
 //sandwich------------------------------
 
-lomito.innerHTML="$6000"
+lomito.innerHTML="$7000"
 
-mila.innerHTML="$5500"
+mila.innerHTML="$6000"
 
 hambueguesa.innerHTML="$5000"
 
-chacarero1p.innerHTML="$6000"
+chacarero1p.innerHTML="$6500"
 
-chacarero2p.innerHTML="$10000"
+chacarero2p.innerHTML="$12000"
 
 //papas-------------------------------
 
-papas.innerHTML="$3500"
+papas.innerHTML="$4500"
 
-papasbravas.innerHTML="$4500"
+papasbravas.innerHTML="$5000"

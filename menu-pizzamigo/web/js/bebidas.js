@@ -26,47 +26,47 @@ const laton = document.getElementById("laton")
 //gaseosa
 
 
-coca1l.innerHTML="$2750"
+coca1l.innerHTML="$3500"
 
-coca15l.innerHTML="$3850"
+coca15l.innerHTML="$4500"
 
-fanta1l.innerHTML="$2750"
+fanta1l.innerHTML="$3500"
 
-sprite1l.innerHTML="$2750"
+sprite1l.innerHTML="$3500"
 
 
-fanta15l.innerHTML="$3850"
+fanta15l.innerHTML="$4500"
 
-sprite15l.innerHTML="$3850"
+sprite15l.innerHTML="$4500"
 
-coca300.innerHTML="$1650"
+coca300.innerHTML="$2200"
 
-fanta300.innerHTML="$1650"
+fanta300.innerHTML="$2200"
 
-sprite300.innerHTML="$1650"
+sprite300.innerHTML="$2200"
 
 
 aguasav.innerHTML="$2200"
 
 //cerveza
 
-saltarubia.innerHTML="$4750"
+saltarubia.innerHTML="$5000"
 
-saltanegra.innerHTML="$4750"
+saltanegra.innerHTML="$5000"
 
-heineken.innerHTML="$5300"
+heineken.innerHTML="$6000"
 
-imperial.innerHTML="$4950"
+imperial.innerHTML="$5500"
 
-miller.innerHTML="$5300"
+miller.innerHTML="$5500"
 
-corona710.innerHTML="$3650"
+corona710.innerHTML="$6000"
 
-corona330.innerHTML="$2200"
+corona330.innerHTML="$3000"
 
-sol.innerHTML="$2200"
+sol.innerHTML="$3500"
 
-lata.innerHTML="$2800"
+lata.innerHTML="$3600"
 
-laton.innerHTML="$3650"
+laton.innerHTML="$4500"
 

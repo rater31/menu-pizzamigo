@@ -1,4 +1,4 @@
 const ensalada = document.getElementById("ensalada");
 
 
-ensalada.innerHTML="$3850"
+ensalada.innerHTML="$5000"
