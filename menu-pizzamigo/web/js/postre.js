@@ -11,12 +11,12 @@ const coreanitoalmibar = document.getElementById("coreanitoalmibar");
 
 
 
-porcionesdetarta.innerHTML="$2800"
-flan.innerHTML="$2800"
-budindepan.innerHTML="$2800"
-helado.innerHTML="$2800"
-ensaladadefrutas.innerHTML="$2800"
-shotdepostres.innerHTML="$2800"
-qcayote.innerHTML="$2800"
-batataalmibar.innerHTML="$2800"
-coreanitoalmibar.innerHTML="$2800"
+porcionesdetarta.innerHTML="$2000"
+flan.innerHTML="$2000"
+budindepan.innerHTML="$2000"
+helado.innerHTML="$2000"
+ensaladadefrutas.innerHTML="$2000"
+shotdepostres.innerHTML="$2500"
+qcayote.innerHTML="$2000"
+batataalmibar.innerHTML="$2000"
+coreanitoalmibar.innerHTML="$2000"
